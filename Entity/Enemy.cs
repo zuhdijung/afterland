@@ -17,6 +17,7 @@ namespace Afterland.Entity
         public string Name { get; set; }
         public string Description { get; set; }
         public EnumMonsterElement Element { get; set; }
+        public EnumMonsterLevel Level { get; set; }
         public Attribute? MonsterAttribute { get; set; }
         public virtual ICollection<PlayerItem> Item { get; set; }
     }

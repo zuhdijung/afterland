@@ -158,7 +158,7 @@ namespace Afterland.Helper
             Console.Clear();
         }
         // Battle Phase if 1 vs 1
-        public static void BattlePhase(Player currentPlayer, Enemy enemy, GamePlay gamePlay)
+        public static EnumBattleResult BattlePhase(Player currentPlayer, Enemy enemy, GamePlay gamePlay)
         {
             // generate random
             Random random = new Random();
@@ -189,7 +189,7 @@ namespace Afterland.Helper
                     if (currentPlayer.PlayerAttribute.Speed >= enemy.MonsterAttribute.Speed)
                     {
                         #region player attack enemy
-                        // algorithm to get value of attack of player and defense of enemy
+                        // algorithm to get value of player's attack and enemy's defense
                         randomAttack = Generate.GenerateRandomAttribute(currentPlayer.PlayerAttribute.Attack, gamePlay);
                         randomDefend = Generate.GenerateRandomAttribute(enemy.MonsterAttribute.Defense, gamePlay);
 
@@ -332,8 +332,23 @@ namespace Afterland.Helper
                 }
                 #endregion
             } // end of while
+            
+            
             // if ...
-
+            if(enemy.MonsterAttribute.HealthPower <= 0)
+            {
+                characterBuble(ConsoleColor.White, "", $"{enemy.Name} has fainted!");
+                if(enemy.Level == EnumMonsterLevel.Bugs)
+                {
+                    int getGold = 10;
+                    getGold += Generate.GenerateGold(getGold, gamePlay, currentPlayer);
+                    characterBuble(ConsoleColor.Blue, "Battle Phase", $"You got {getGold} Gold");
+                }
+                else
+                {
+                    characterBuble(ConsoleColor.Red, "Battle Phase", $"You just died. Game Over!");
+                }
+            }
         }
     }
 }

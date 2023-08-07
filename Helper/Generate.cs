@@ -56,5 +56,14 @@ namespace Afterland.Helper
             int randomAttribute = attribute + ((random.Next(gamePlay.ToleranceDown, gamePlay.ToleranceUp)));
             return randomAttribute;
         }
+        public static int GenerateGold(int initGold, GamePlay gamePlay, Player player)
+        {
+            Random random = new Random();
+            int randomGold = initGold + (random.Next(gamePlay.ToleranceDown, gamePlay.ToleranceUp));
+            if (random.Next(gamePlay.TopLimit - player.PlayerAttribute.Luck) == random.Next(gamePlay.TopLimit - player.PlayerAttribute.Luck))
+                randomGold *= 2;
+
+            return randomGold;
+        }
     }
 }

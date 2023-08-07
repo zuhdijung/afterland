@@ -49,4 +49,11 @@ namespace Afterland.Helper
         Demon,
         Dragon
     }
+    public enum EnumBattleResult
+    {
+        Win,
+        Lose,
+        Run,
+        Bribe
+    }
 }

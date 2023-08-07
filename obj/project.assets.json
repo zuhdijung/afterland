@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Zuhdi\\project\\Afterland.csproj",
+      "projectUniqueName": "D:\\Zuhdi\\others\\afterland\\Afterland.csproj",
       "projectName": "Afterland",
-      "projectPath": "D:\\Zuhdi\\project\\Afterland.csproj",
+      "projectPath": "D:\\Zuhdi\\others\\afterland\\Afterland.csproj",
       "packagesPath": "C:\\Users\\it.prog.7\\.nuget\\packages\\",
-      "outputPath": "D:\\Zuhdi\\project\\obj\\",
+      "outputPath": "D:\\Zuhdi\\others\\afterland\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
