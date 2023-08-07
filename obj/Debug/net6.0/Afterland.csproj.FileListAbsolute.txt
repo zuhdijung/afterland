@@ -1,0 +1,30 @@
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\bin\Debug\net6.0\Afterland.exe
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\bin\Debug\net6.0\Afterland.deps.json
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\bin\Debug\net6.0\Afterland.runtimeconfig.json
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\bin\Debug\net6.0\Afterland.dll
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\bin\Debug\net6.0\Afterland.pdb
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.csproj.AssemblyReference.cache
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.AssemblyInfoInputs.cache
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.AssemblyInfo.cs
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.csproj.CoreCompileInputs.cache
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.dll
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\refint\Afterland.dll
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.pdb
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\Afterland.genruntimeconfig.cache
+D:\Zuhdi\Own Project\Game of Afterland\Afterland\Afterland\obj\Debug\net6.0\ref\Afterland.dll
+D:\Zuhdi\project\bin\Debug\net6.0\Afterland.exe
+D:\Zuhdi\project\bin\Debug\net6.0\Afterland.deps.json
+D:\Zuhdi\project\bin\Debug\net6.0\Afterland.runtimeconfig.json
+D:\Zuhdi\project\bin\Debug\net6.0\Afterland.dll
+D:\Zuhdi\project\bin\Debug\net6.0\Afterland.pdb
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.csproj.AssemblyReference.cache
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.AssemblyInfoInputs.cache
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.AssemblyInfo.cs
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.csproj.CoreCompileInputs.cache
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.dll
+D:\Zuhdi\project\obj\Debug\net6.0\refint\Afterland.dll
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.pdb
+D:\Zuhdi\project\obj\Debug\net6.0\Afterland.genruntimeconfig.cache
+D:\Zuhdi\project\obj\Debug\net6.0\ref\Afterland.dll
