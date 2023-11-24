@@ -1,2 +1,3 @@
 # afterland
-Game of Afterland
+Made for fun and learn about C#
+Game Command Line
